@@ -26,7 +26,7 @@ You can see the report example below
 •	Export query results to a CSV file.<br>
 •	Create interactive plots based on SQL query results.<br>
 
-![image](https://github.com/rafalkaliszczuk/data-viz-shiny-app/assets/100476888/bd1f01dd-fc5e-48d9-9f69-7283665ed5e5)
+![image](https://github.com/rafalkaliszczuk/data-viz-shiny-app/assets/100476888/d1c245c4-af15-4495-8c5e-086eabd15b1c)
 ![image](https://github.com/rafalkaliszczuk/data-viz-shiny-app/assets/100476888/dd565b29-b185-45d8-bdd5-7a894b0bfa43)
 
 <b>Map</b><br>
